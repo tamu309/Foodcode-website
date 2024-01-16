@@ -1,0 +1,35 @@
+/* Footer Section Started */
+
+#FooterSection{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    padding: 150px 150px 0 150px;
+    height: 600px;
+}
+
+#FooterSectionUlainDiv{
+    display: flex;
+    gap: 80px;
+}
+
+
+#FooterSectionH1>h1{
+    text-align: center;
+    font-size: 44px;
+}
+hr{
+    background: #ffffff1a;
+}
+#FooterSectionUl>h1{
+    padding-left: 30px;
+}
+#FooterSectionUl>ul{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  font-size: 24px;
+}
+
+ /* Footer Section Ended */   
